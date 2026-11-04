@@ -1,0 +1,18 @@
+{
+  "name": "genviral",
+  "owner": {
+    "name": "Genviral",
+    "url": "https://www.genviral.io"
+  },
+  "metadata": {
+    "description": "Agent skills and the hosted MCP server for creating, scheduling, publishing and analyzing social content with Genviral.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "genviral",
+      "source": "./",
+      "description": "Connect to the Genviral MCP server and research the Viral Library, draft slideshows and videos, schedule posts and read analytics, with skills for setup, format research, performance reviews and slideshow drafts."
+    }
+  ]
+}

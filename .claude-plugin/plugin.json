@@ -1,0 +1,18 @@
+{
+  "name": "genviral",
+  "displayName": "Genviral",
+  "version": "1.0.0",
+  "description": "Connect to the Genviral MCP server and research the Viral Library, draft slideshows and videos, schedule posts and read analytics, with skills for setup, format research, performance reviews and slideshow drafts.",
+  "author": {
+    "name": "Genviral",
+    "url": "https://www.genviral.io"
+  },
+  "homepage": "https://www.genviral.io/mcp",
+  "repository": "https://github.com/OnlineDopamine/genviral-agent-skills",
+  "license": "MIT",
+  "keywords": ["genviral", "social-media", "scheduler", "mcp", "tiktok", "instagram", "slideshows"],
+  "documentationUrl": "https://docs.genviral.io",
+  "supportUrl": "https://www.genviral.io/contact",
+  "privacyPolicyUrl": "https://www.genviral.io/privacy",
+  "termsOfServiceUrl": "https://www.genviral.io/terms"
+}
